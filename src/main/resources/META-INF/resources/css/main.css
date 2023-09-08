@@ -1,0 +1,11 @@
+.chart-container {
+    position: absolute;
+    height: 450px!important;
+    width: 900px!important;
+}
+
+.radar-container {
+    position: relative;
+    height: 450px!important;
+    width: 900px!important;
+}
